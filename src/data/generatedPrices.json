@@ -1,0 +1,10012 @@
+{
+  "KO": [
+    {
+      "ticker": "KO",
+      "date": "1987-12-01",
+      "close": 2
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-02",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-03",
+      "close": 2.06
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-04",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-05",
+      "close": 2
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-06",
+      "close": 2.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-07",
+      "close": 2.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-08",
+      "close": 1.98
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-09",
+      "close": 2.01
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-10",
+      "close": 2.01
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-11",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-12",
+      "close": 2.08
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-13",
+      "close": 2.07
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-14",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-15",
+      "close": 2.06
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-16",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-17",
+      "close": 2.01
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-18",
+      "close": 1.96
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-19",
+      "close": 1.98
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-20",
+      "close": 2
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-21",
+      "close": 2.01
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-22",
+      "close": 2.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-23",
+      "close": 2.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-24",
+      "close": 2.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-25",
+      "close": 2.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-26",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-27",
+      "close": 1.99
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-28",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-29",
+      "close": 2.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-30",
+      "close": 2.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1987-12-31",
+      "close": 1.99
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-01",
+      "close": 2.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-02",
+      "close": 2.06
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-03",
+      "close": 2.07
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-04",
+      "close": 2.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-05",
+      "close": 2.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-06",
+      "close": 2
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-07",
+      "close": 1.99
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-08",
+      "close": 1.97
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-09",
+      "close": 1.92
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-10",
+      "close": 1.88
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-11",
+      "close": 1.89
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-12",
+      "close": 1.87
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-13",
+      "close": 1.87
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-14",
+      "close": 1.88
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-15",
+      "close": 1.84
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-16",
+      "close": 1.88
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-17",
+      "close": 1.83
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-18",
+      "close": 1.83
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-19",
+      "close": 1.87
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-20",
+      "close": 1.88
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-21",
+      "close": 1.84
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-22",
+      "close": 1.89
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-23",
+      "close": 1.86
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-24",
+      "close": 1.88
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-25",
+      "close": 1.92
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-26",
+      "close": 1.97
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-27",
+      "close": 1.93
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-28",
+      "close": 1.92
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-29",
+      "close": 1.97
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-30",
+      "close": 1.95
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-01-31",
+      "close": 1.9
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-01",
+      "close": 1.94
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-02",
+      "close": 1.97
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-03",
+      "close": 2.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-04",
+      "close": 2.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-05",
+      "close": 2.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-06",
+      "close": 1.99
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-07",
+      "close": 1.97
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-08",
+      "close": 1.96
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-09",
+      "close": 1.93
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-10",
+      "close": 1.96
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-11",
+      "close": 1.97
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-12",
+      "close": 1.98
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-13",
+      "close": 2.01
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-14",
+      "close": 2.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-15",
+      "close": 2.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-16",
+      "close": 2.06
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-17",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-18",
+      "close": 2.09
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-19",
+      "close": 2.06
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-20",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-21",
+      "close": 2.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-22",
+      "close": 2.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-23",
+      "close": 2.08
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-24",
+      "close": 2.11
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-25",
+      "close": 2.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-26",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-27",
+      "close": 2.14
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-28",
+      "close": 2.2
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-02-29",
+      "close": 2.18
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-01",
+      "close": 2.16
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-02",
+      "close": 2.14
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-03",
+      "close": 2.16
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-04",
+      "close": 2.18
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-05",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-06",
+      "close": 2.11
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-07",
+      "close": 2.14
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-08",
+      "close": 2.12
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-09",
+      "close": 2.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-10",
+      "close": 2.09
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-11",
+      "close": 2.06
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-12",
+      "close": 2.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-13",
+      "close": 2.13
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-14",
+      "close": 2.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-15",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-16",
+      "close": 2.13
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-17",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-18",
+      "close": 2.12
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-19",
+      "close": 2.14
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-20",
+      "close": 2.19
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-21",
+      "close": 2.21
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-22",
+      "close": 2.26
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-23",
+      "close": 2.22
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-24",
+      "close": 2.26
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-25",
+      "close": 2.21
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-26",
+      "close": 2.24
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-27",
+      "close": 2.29
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-28",
+      "close": 2.28
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-29",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-30",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-03-31",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-01",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-02",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-03",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-04",
+      "close": 2.52
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-05",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-06",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-07",
+      "close": 2.51
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-08",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-09",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-10",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-11",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-12",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-13",
+      "close": 2.28
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-14",
+      "close": 2.29
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-15",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-16",
+      "close": 2.3
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-17",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-18",
+      "close": 2.37
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-19",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-20",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-21",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-22",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-23",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-24",
+      "close": 2.46
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-25",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-26",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-27",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-28",
+      "close": 2.5
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-29",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-04-30",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-01",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-02",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-03",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-04",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-05",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-06",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-07",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-07",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-08",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-09",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-10",
+      "close": 2.29
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-11",
+      "close": 2.24
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-12",
+      "close": 2.2
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-13",
+      "close": 2.16
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-14",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-15",
+      "close": 2.2
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-16",
+      "close": 2.19
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-17",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-18",
+      "close": 2.15
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-19",
+      "close": 2.19
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-20",
+      "close": 2.22
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-21",
+      "close": 2.25
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-22",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-23",
+      "close": 2.32
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-24",
+      "close": 2.27
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-25",
+      "close": 2.27
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-26",
+      "close": 2.28
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-27",
+      "close": 2.3
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-28",
+      "close": 2.32
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-29",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-30",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-05-31",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-01",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-02",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-03",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-04",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-05",
+      "close": 2.29
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-06",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-07",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-08",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-09",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-10",
+      "close": 2.26
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-11",
+      "close": 2.25
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-12",
+      "close": 2.25
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-13",
+      "close": 2.27
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-14",
+      "close": 2.22
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-15",
+      "close": 2.27
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-16",
+      "close": 2.25
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-17",
+      "close": 2.23
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-18",
+      "close": 2.23
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-19",
+      "close": 2.27
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-20",
+      "close": 2.32
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-21",
+      "close": 2.3
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-22",
+      "close": 2.32
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-23",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-24",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-25",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-26",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-27",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-28",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-29",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-06-30",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-01",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-02",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-03",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-04",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-05",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-06",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-07",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-08",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-09",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-10",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-11",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-12",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-13",
+      "close": 2.31
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-14",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-15",
+      "close": 2.28
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-16",
+      "close": 2.32
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-17",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-18",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-19",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-20",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-21",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-22",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-23",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-24",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-25",
+      "close": 2.54
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-26",
+      "close": 2.57
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-27",
+      "close": 2.53
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-28",
+      "close": 2.53
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-29",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-30",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-07-31",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-01",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-02",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-03",
+      "close": 2.37
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-04",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-05",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-06",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-07",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-08",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-09",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-10",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-11",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-12",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-13",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-14",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-15",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-16",
+      "close": 2.37
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-17",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-18",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-19",
+      "close": 2.37
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-20",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-21",
+      "close": 2.36
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-22",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-23",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-24",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-25",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-26",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-27",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-28",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-29",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-30",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-08-31",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-01",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-02",
+      "close": 2.46
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-03",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-04",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-05",
+      "close": 2.46
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-06",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-07",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-08",
+      "close": 2.46
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-09",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-10",
+      "close": 2.56
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-11",
+      "close": 2.6
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-12",
+      "close": 2.58
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-13",
+      "close": 2.57
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-14",
+      "close": 2.61
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-15",
+      "close": 2.55
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-16",
+      "close": 2.54
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-17",
+      "close": 2.53
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-18",
+      "close": 2.51
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-19",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-20",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-21",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-22",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-23",
+      "close": 2.39
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-24",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-25",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-26",
+      "close": 2.43
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-27",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-28",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-29",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-09-30",
+      "close": 2.46
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-01",
+      "close": 2.41
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-02",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-03",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-04",
+      "close": 2.53
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-05",
+      "close": 2.54
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-06",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-07",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-09",
+      "close": 2.55
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-10",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-11",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-12",
+      "close": 2.52
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-13",
+      "close": 2.54
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-14",
+      "close": 2.5
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-15",
+      "close": 2.51
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-16",
+      "close": 2.46
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-17",
+      "close": 2.49
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-18",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-19",
+      "close": 2.42
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-20",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-21",
+      "close": 2.38
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-22",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-23",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-24",
+      "close": 2.33
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-25",
+      "close": 2.34
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-26",
+      "close": 2.35
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-27",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-28",
+      "close": 2.44
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-29",
+      "close": 2.4
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-30",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-10-31",
+      "close": 2.5
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-01",
+      "close": 2.47
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-02",
+      "close": 2.52
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-03",
+      "close": 2.57
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-04",
+      "close": 2.62
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-05",
+      "close": 2.61
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-06",
+      "close": 2.59
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-07",
+      "close": 2.53
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-08",
+      "close": 2.58
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-09",
+      "close": 2.56
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-10",
+      "close": 2.52
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-11",
+      "close": 2.5
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-12",
+      "close": 2.45
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-13",
+      "close": 2.48
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-14",
+      "close": 2.53
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-15",
+      "close": 2.56
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-16",
+      "close": 2.62
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-17",
+      "close": 2.67
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-18",
+      "close": 2.71
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-19",
+      "close": 2.76
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-20",
+      "close": 2.82
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-21",
+      "close": 2.81
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-22",
+      "close": 2.81
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-23",
+      "close": 2.88
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-24",
+      "close": 2.82
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-25",
+      "close": 2.84
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-26",
+      "close": 2.91
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-27",
+      "close": 2.92
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-28",
+      "close": 2.93
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-29",
+      "close": 2.9
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-11-30",
+      "close": 2.9
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-01",
+      "close": 2.96
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-02",
+      "close": 3.01
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-03",
+      "close": 3.02
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-04",
+      "close": 3.09
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-05",
+      "close": 3.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-06",
+      "close": 3.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-07",
+      "close": 3.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-08",
+      "close": 2.99
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-09",
+      "close": 3
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-10",
+      "close": 3.07
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-11",
+      "close": 3
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-12",
+      "close": 3.03
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-13",
+      "close": 3.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-14",
+      "close": 3.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-15",
+      "close": 3.13
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-16",
+      "close": 3.16
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-17",
+      "close": 3.1
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-18",
+      "close": 3.08
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-19",
+      "close": 3.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-20",
+      "close": 3.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-21",
+      "close": 3.07
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-22",
+      "close": 3.08
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-23",
+      "close": 3.08
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-24",
+      "close": 3.04
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-25",
+      "close": 3.05
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-26",
+      "close": 3.11
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-27",
+      "close": 3.14
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-28",
+      "close": 3.17
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-29",
+      "close": 3.2
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-30",
+      "close": 3.25
+    },
+    {
+      "ticker": "KO",
+      "date": "1988-12-31",
+      "close": 3.27
+    },
+    {
+      "ticker": "KO",
+      "date": "1989-01-01",
+      "close": 3.24
+    },
+    {
+      "ticker": "KO",
+      "date": "1989-01-02",
+      "close": 3.18
+    },
+    {
+      "ticker": "KO",
+      "date": "1989-01-03",
+      "close": 3.2
+    }
+  ],
+  "SPY": [
+    {
+      "ticker": "SPY",
+      "date": "2008-09-01",
+      "close": 85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-02",
+      "close": 83.04
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-03",
+      "close": 81.19
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-04",
+      "close": 82.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-05",
+      "close": 84.41
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-06",
+      "close": 85.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-07",
+      "close": 85.47
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-08",
+      "close": 83.46
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-09",
+      "close": 81.63
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-10",
+      "close": 83.15
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-11",
+      "close": 84.88
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-12",
+      "close": 83.44
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-13",
+      "close": 84.97
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-14",
+      "close": 85.25
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-15",
+      "close": 86.37
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-16",
+      "close": 84.9
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-17",
+      "close": 84.46
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-18",
+      "close": 83.93
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-19",
+      "close": 85.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-20",
+      "close": 87.06
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-21",
+      "close": 88.59
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-22",
+      "close": 90.89
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-23",
+      "close": 92.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-24",
+      "close": 92.59
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-25",
+      "close": 92.86
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-26",
+      "close": 94.08
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-27",
+      "close": 95.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-28",
+      "close": 92.98
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-29",
+      "close": 92.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-09-30",
+      "close": 90.48
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-01",
+      "close": 90.03
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-02",
+      "close": 89.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-03",
+      "close": 90.78
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-04",
+      "close": 89.07
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-05",
+      "close": 89.36
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-06",
+      "close": 88.63
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-07",
+      "close": 88.9
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-08",
+      "close": 91.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-09",
+      "close": 93.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-10",
+      "close": 93.29
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-11",
+      "close": 93.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-12",
+      "close": 91.68
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-13",
+      "close": 93.84
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-14",
+      "close": 95.26
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-15",
+      "close": 93.83
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-16",
+      "close": 95.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-17",
+      "close": 96.12
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-18",
+      "close": 95.66
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-19",
+      "close": 95.94
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-20",
+      "close": 96.35
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-21",
+      "close": 95.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-22",
+      "close": 93.58
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-23",
+      "close": 91.97
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-24",
+      "close": 92.72
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-25",
+      "close": 90.69
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-26",
+      "close": 92.35
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-27",
+      "close": 90.3
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-28",
+      "close": 88.52
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-29",
+      "close": 89.42
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-30",
+      "close": 90.69
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-10-31",
+      "close": 90.89
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-01",
+      "close": 89.79
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-02",
+      "close": 87.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-03",
+      "close": 87.19
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-04",
+      "close": 89.25
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-05",
+      "close": 87.51
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-06",
+      "close": 85.79
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-07",
+      "close": 87.34
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-08",
+      "close": 86.06
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-09",
+      "close": 85.96
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-10",
+      "close": 87.77
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-11",
+      "close": 86.4
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-12",
+      "close": 84.38
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-13",
+      "close": 83
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-14",
+      "close": 81.32
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-15",
+      "close": 81.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-16",
+      "close": 82.38
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-17",
+      "close": 81.87
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-18",
+      "close": 80.23
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-19",
+      "close": 80.61
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-20",
+      "close": 79.45
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-21",
+      "close": 77.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-22",
+      "close": 78.21
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-23",
+      "close": 78.21
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-24",
+      "close": 76.46
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-25",
+      "close": 76.51
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-26",
+      "close": 76.97
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-27",
+      "close": 75.61
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-28",
+      "close": 74.89
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-29",
+      "close": 73.31
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-11-30",
+      "close": 71.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-01",
+      "close": 71.72
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-02",
+      "close": 71.89
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-03",
+      "close": 71.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-04",
+      "close": 71.04
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-05",
+      "close": 70.57
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-06",
+      "close": 71.5
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-07",
+      "close": 70.03
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-08",
+      "close": 69.52
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-09",
+      "close": 71.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-10",
+      "close": 69.66
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-11",
+      "close": 68.36
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-12",
+      "close": 68.16
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-13",
+      "close": 67.91
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-14",
+      "close": 67.34
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-15",
+      "close": 66.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-16",
+      "close": 66.08
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-17",
+      "close": 65.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-18",
+      "close": 63.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-19",
+      "close": 62.37
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-20",
+      "close": 62.63
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-21",
+      "close": 62.57
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-22",
+      "close": 62.62
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-23",
+      "close": 63.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-24",
+      "close": 63.3
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-25",
+      "close": 62.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-26",
+      "close": 63.23
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-27",
+      "close": 64.31
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-28",
+      "close": 65.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-29",
+      "close": 66.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-30",
+      "close": 67.5
+    },
+    {
+      "ticker": "SPY",
+      "date": "2008-12-31",
+      "close": 69.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-01",
+      "close": 68.84
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-02",
+      "close": 67.22
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-03",
+      "close": 68.89
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-04",
+      "close": 67.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-05",
+      "close": 68.89
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-06",
+      "close": 69.84
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-07",
+      "close": 68.99
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-08",
+      "close": 69.59
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-09",
+      "close": 68.09
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-10",
+      "close": 69.55
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-11",
+      "close": 68.31
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-12",
+      "close": 67.86
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-13",
+      "close": 68.22
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-14",
+      "close": 68.53
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-15",
+      "close": 68.71
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-16",
+      "close": 70.22
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-17",
+      "close": 69.79
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-18",
+      "close": 70.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-19",
+      "close": 72.34
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-20",
+      "close": 73.18
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-21",
+      "close": 73.28
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-22",
+      "close": 75.13
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-23",
+      "close": 74.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-24",
+      "close": 74.59
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-25",
+      "close": 74.68
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-26",
+      "close": 73.74
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-27",
+      "close": 75.15
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-28",
+      "close": 74.61
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-29",
+      "close": 74.37
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-30",
+      "close": 73.09
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-01-31",
+      "close": 72.17
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-01",
+      "close": 72.92
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-02",
+      "close": 74.21
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-03",
+      "close": 74.03
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-04",
+      "close": 74.7
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-05",
+      "close": 76.03
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-06",
+      "close": 77.22
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-07",
+      "close": 77.63
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-08",
+      "close": 77.52
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-09",
+      "close": 79.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-10",
+      "close": 80.12
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-11",
+      "close": 79.67
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-12",
+      "close": 78.03
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-13",
+      "close": 77.28
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-14",
+      "close": 76.82
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-15",
+      "close": 75.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-16",
+      "close": 75.67
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-17",
+      "close": 75.66
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-18",
+      "close": 75.47
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-19",
+      "close": 76.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-20",
+      "close": 78.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-21",
+      "close": 79.47
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-22",
+      "close": 78.12
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-23",
+      "close": 78.23
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-24",
+      "close": 78.81
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-25",
+      "close": 76.96
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-26",
+      "close": 77.81
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-27",
+      "close": 79.36
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-02-28",
+      "close": 79.4
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-01",
+      "close": 78.88
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-02",
+      "close": 77.58
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-03",
+      "close": 77.26
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-04",
+      "close": 77.98
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-05",
+      "close": 79.6
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-06",
+      "close": 78.62
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-07",
+      "close": 77.63
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-08",
+      "close": 77.62
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-09",
+      "close": 76.71
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-10",
+      "close": 76.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-11",
+      "close": 74.94
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-12",
+      "close": 74.18
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-13",
+      "close": 74.95
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-14",
+      "close": 73.77
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-15",
+      "close": 74.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-16",
+      "close": 74.13
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-17",
+      "close": 75.49
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-18",
+      "close": 77.41
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-19",
+      "close": 77.93
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-20",
+      "close": 78.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-21",
+      "close": 78.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-22",
+      "close": 77.37
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-23",
+      "close": 78.67
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-24",
+      "close": 77.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-25",
+      "close": 78.59
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-26",
+      "close": 77.79
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-27",
+      "close": 78.72
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-28",
+      "close": 79.59
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-29",
+      "close": 78.81
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-30",
+      "close": 80.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-03-31",
+      "close": 81.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-01",
+      "close": 81.92
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-02",
+      "close": 82.42
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-03",
+      "close": 84.41
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-04",
+      "close": 83.95
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-05",
+      "close": 86.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-06",
+      "close": 88.14
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-07",
+      "close": 90.32
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-08",
+      "close": 92.55
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-09",
+      "close": 91.21
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-10",
+      "close": 91.23
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-11",
+      "close": 90.16
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-12",
+      "close": 92.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-13",
+      "close": 93.72
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-14",
+      "close": 94.03
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-15",
+      "close": 95.31
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-16",
+      "close": 97.17
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-17",
+      "close": 98.04
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-18",
+      "close": 96.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-19",
+      "close": 98.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-20",
+      "close": 99.87
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-21",
+      "close": 98.95
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-22",
+      "close": 99.27
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-23",
+      "close": 101.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-24",
+      "close": 101.9
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-25",
+      "close": 102.29
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-26",
+      "close": 99.95
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-27",
+      "close": 100.57
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-28",
+      "close": 101.14
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-29",
+      "close": 102.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-04-30",
+      "close": 102.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-01",
+      "close": 104.31
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-02",
+      "close": 106.01
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-03",
+      "close": 104.94
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-04",
+      "close": 105.27
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-05",
+      "close": 103.76
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-06",
+      "close": 105.77
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-07",
+      "close": 107.76
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-08",
+      "close": 107.37
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-09",
+      "close": 105.9
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-10",
+      "close": 104.58
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-11",
+      "close": 102.96
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-12",
+      "close": 100.88
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-13",
+      "close": 103.22
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-14",
+      "close": 105.18
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-15",
+      "close": 104.71
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-16",
+      "close": 107.36
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-17",
+      "close": 106.05
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-18",
+      "close": 105.25
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-19",
+      "close": 103.48
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-20",
+      "close": 105.49
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-21",
+      "close": 106.28
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-22",
+      "close": 104.7
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-23",
+      "close": 107.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-24",
+      "close": 104.96
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-25",
+      "close": 104.82
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-26",
+      "close": 104.14
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-27",
+      "close": 104.26
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-28",
+      "close": 106.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-29",
+      "close": 109.18
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-30",
+      "close": 108.98
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-05-31",
+      "close": 109.91
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-01",
+      "close": 109.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-02",
+      "close": 108.38
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-03",
+      "close": 109.67
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-04",
+      "close": 110.13
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-05",
+      "close": 110.92
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-06",
+      "close": 110.93
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-07",
+      "close": 113.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-08",
+      "close": 114.53
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-09",
+      "close": 113.81
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-10",
+      "close": 111.58
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-11",
+      "close": 109.86
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-12",
+      "close": 111.87
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-13",
+      "close": 112.63
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-14",
+      "close": 114.68
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-15",
+      "close": 114.01
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-16",
+      "close": 113.04
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-17",
+      "close": 113.66
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-18",
+      "close": 114.62
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-19",
+      "close": 113.72
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-20",
+      "close": 114.46
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-21",
+      "close": 114.5
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-22",
+      "close": 115.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-23",
+      "close": 115.91
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-24",
+      "close": 117.61
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-25",
+      "close": 116.07
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-26",
+      "close": 118.98
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-27",
+      "close": 120.74
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-28",
+      "close": 123.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-29",
+      "close": 125.92
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-06-30",
+      "close": 124.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-01",
+      "close": 125.97
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-02",
+      "close": 126.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-03",
+      "close": 127.25
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-04",
+      "close": 128.5
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-05",
+      "close": 125.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-06",
+      "close": 126.68
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-07",
+      "close": 127.18
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-08",
+      "close": 129.67
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-09",
+      "close": 130.5
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-10",
+      "close": 133.04
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-11",
+      "close": 131.95
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-12",
+      "close": 134.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-13",
+      "close": 134.5
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-14",
+      "close": 133.35
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-15",
+      "close": 136.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-16",
+      "close": 139.52
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-17",
+      "close": 140.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-18",
+      "close": 143.09
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-19",
+      "close": 141.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-20",
+      "close": 144.56
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-21",
+      "close": 143.39
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-22",
+      "close": 144.88
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-23",
+      "close": 144.49
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-24",
+      "close": 146.47
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-25",
+      "close": 149.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-26",
+      "close": 146.08
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-27",
+      "close": 149.16
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-28",
+      "close": 150.57
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-29",
+      "close": 151.08
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-30",
+      "close": 151.6
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-07-31",
+      "close": 149.28
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-01",
+      "close": 151.31
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-02",
+      "close": 151.98
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-03",
+      "close": 152.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-04",
+      "close": 154.71
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-05",
+      "close": 157
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-06",
+      "close": 155.97
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-07",
+      "close": 153.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-08",
+      "close": 157.45
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-09",
+      "close": 156.41
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-10",
+      "close": 159.32
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-11",
+      "close": 162.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-12",
+      "close": 166.98
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-13",
+      "close": 168.86
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-14",
+      "close": 170.04
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-15",
+      "close": 166.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-16",
+      "close": 163.19
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-17",
+      "close": 163.08
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-18",
+      "close": 164.46
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-19",
+      "close": 160.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-20",
+      "close": 162.66
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-21",
+      "close": 159.43
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-22",
+      "close": 161
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-23",
+      "close": 157.15
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-24",
+      "close": 156.41
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-25",
+      "close": 155.77
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-26",
+      "close": 159.3
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-27",
+      "close": 160.47
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-28",
+      "close": 158.28
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-29",
+      "close": 155.58
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-30",
+      "close": 158.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-08-31",
+      "close": 156.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-01",
+      "close": 154.09
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-02",
+      "close": 151.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-03",
+      "close": 151.8
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-04",
+      "close": 150.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-05",
+      "close": 151.64
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-06",
+      "close": 153.73
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-07",
+      "close": 151.62
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-08",
+      "close": 150.91
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-09",
+      "close": 150.65
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-10",
+      "close": 151.64
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-11",
+      "close": 154.85
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-12",
+      "close": 157.87
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-13",
+      "close": 158.2
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-14",
+      "close": 161.07
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-15",
+      "close": 159.09
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-16",
+      "close": 157.22
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-17",
+      "close": 159.11
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-18",
+      "close": 157.33
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-19",
+      "close": 156.67
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-20",
+      "close": 159.33
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-21",
+      "close": 155.52
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-22",
+      "close": 154.86
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-23",
+      "close": 155.24
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-24",
+      "close": 152.15
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-25",
+      "close": 151.87
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-26",
+      "close": 149.18
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-27",
+      "close": 151.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-28",
+      "close": 151.17
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-29",
+      "close": 150.12
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-09-30",
+      "close": 149.75
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-10-01",
+      "close": 149.1
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-10-02",
+      "close": 148.84
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-10-03",
+      "close": 152.17
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-10-04",
+      "close": 154.91
+    },
+    {
+      "ticker": "SPY",
+      "date": "2009-10-05",
+      "close": 156.03
+    }
+  ],
+  "TSLA": [
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-01",
+      "close": 50
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-02",
+      "close": 49.14
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-03",
+      "close": 49.82
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-04",
+      "close": 50.63
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-05",
+      "close": 51.11
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-06",
+      "close": 50.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-07",
+      "close": 50.15
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-08",
+      "close": 50.31
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-09",
+      "close": 49.29
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-10",
+      "close": 48.18
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-11",
+      "close": 48.7
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-12",
+      "close": 49.21
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-13",
+      "close": 49.29
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-14",
+      "close": 49.62
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-15",
+      "close": 49.2
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-16",
+      "close": 48.93
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-17",
+      "close": 49.42
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-18",
+      "close": 49.69
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-19",
+      "close": 49.56
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-20",
+      "close": 48.43
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-21",
+      "close": 47.32
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-22",
+      "close": 47.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-23",
+      "close": 47.3
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-24",
+      "close": 47.51
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-25",
+      "close": 47.98
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-26",
+      "close": 48.26
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-27",
+      "close": 47.9
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-28",
+      "close": 47.58
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-29",
+      "close": 47.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-04-30",
+      "close": 49.01
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-01",
+      "close": 48.91
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-02",
+      "close": 48.16
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-03",
+      "close": 48.64
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-04",
+      "close": 47.96
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-05",
+      "close": 47.11
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-06",
+      "close": 47.19
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-07",
+      "close": 47.8
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-08",
+      "close": 48.9
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-09",
+      "close": 48.69
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-10",
+      "close": 47.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-11",
+      "close": 47.72
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-12",
+      "close": 46.81
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-13",
+      "close": 46.2
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-14",
+      "close": 45.67
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-15",
+      "close": 46.11
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-16",
+      "close": 45.4
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-17",
+      "close": 46.13
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-18",
+      "close": 46.33
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-19",
+      "close": 45.86
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-20",
+      "close": 44.86
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-21",
+      "close": 44.26
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-22",
+      "close": 44.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-23",
+      "close": 45.03
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-24",
+      "close": 44.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-25",
+      "close": 44.35
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-26",
+      "close": 45.02
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-27",
+      "close": 44.01
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-28",
+      "close": 44.06
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-29",
+      "close": 43.89
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-30",
+      "close": 44.08
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-05-31",
+      "close": 44.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-01",
+      "close": 44.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-02",
+      "close": 45.9
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-03",
+      "close": 44.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-04",
+      "close": 44.54
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-05",
+      "close": 44.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-06",
+      "close": 44.79
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-07",
+      "close": 44.96
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-08",
+      "close": 44.22
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-09",
+      "close": 43.99
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-10",
+      "close": 44.11
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-11",
+      "close": 43.42
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-12",
+      "close": 43.27
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-13",
+      "close": 43.33
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-14",
+      "close": 43.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-15",
+      "close": 43.06
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-16",
+      "close": 42.72
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-17",
+      "close": 42.55
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-18",
+      "close": 42.64
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-19",
+      "close": 43.64
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-20",
+      "close": 43.65
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-21",
+      "close": 43.08
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-22",
+      "close": 42.49
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-23",
+      "close": 41.66
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-24",
+      "close": 40.66
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-25",
+      "close": 40.38
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-26",
+      "close": 41.27
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-27",
+      "close": 40.63
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-28",
+      "close": 40.57
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-29",
+      "close": 39.91
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-06-30",
+      "close": 40.62
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-01",
+      "close": 40.4
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-02",
+      "close": 40.61
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-03",
+      "close": 39.92
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-04",
+      "close": 39.71
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-05",
+      "close": 39.37
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-06",
+      "close": 38.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-07",
+      "close": 38.65
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-08",
+      "close": 38.02
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-09",
+      "close": 38.04
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-10",
+      "close": 37.29
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-11",
+      "close": 36.75
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-12",
+      "close": 36.39
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-13",
+      "close": 37.23
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-14",
+      "close": 36.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-15",
+      "close": 36.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-16",
+      "close": 37.19
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-17",
+      "close": 37.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-18",
+      "close": 38.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-19",
+      "close": 38.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-20",
+      "close": 38.14
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-21",
+      "close": 37.44
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-22",
+      "close": 38.07
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-23",
+      "close": 37.81
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-24",
+      "close": 38.11
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-25",
+      "close": 37.51
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-26",
+      "close": 38.47
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-27",
+      "close": 39.22
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-28",
+      "close": 39.94
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-29",
+      "close": 40.19
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-30",
+      "close": 40.99
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-07-31",
+      "close": 40.65
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-01",
+      "close": 41.49
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-02",
+      "close": 41.73
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-03",
+      "close": 42.37
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-04",
+      "close": 41.65
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-05",
+      "close": 41.38
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-06",
+      "close": 40.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-07",
+      "close": 41.62
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-08",
+      "close": 41.48
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-09",
+      "close": 41.65
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-10",
+      "close": 41.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-11",
+      "close": 41.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-12",
+      "close": 42.7
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-13",
+      "close": 42.19
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-14",
+      "close": 42.05
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-15",
+      "close": 42.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-16",
+      "close": 42.66
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-17",
+      "close": 43.03
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-18",
+      "close": 42.01
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-19",
+      "close": 43.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-20",
+      "close": 44.1
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-21",
+      "close": 44.23
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-22",
+      "close": 45.1
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-23",
+      "close": 44.66
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-24",
+      "close": 44.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-25",
+      "close": 43.75
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-26",
+      "close": 44.28
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-27",
+      "close": 43.25
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-28",
+      "close": 44.31
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-29",
+      "close": 44.75
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-30",
+      "close": 45.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-08-31",
+      "close": 45.68
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-01",
+      "close": 46.82
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-02",
+      "close": 47.69
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-03",
+      "close": 48.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-04",
+      "close": 49.44
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-05",
+      "close": 48.33
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-06",
+      "close": 48.08
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-07",
+      "close": 47.82
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-08",
+      "close": 47.34
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-09",
+      "close": 47.98
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-10",
+      "close": 46.85
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-11",
+      "close": 46.53
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-12",
+      "close": 46.13
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-13",
+      "close": 46.89
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-14",
+      "close": 47.33
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-15",
+      "close": 47.38
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-16",
+      "close": 46.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-17",
+      "close": 46.93
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-18",
+      "close": 48.01
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-19",
+      "close": 47.19
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-20",
+      "close": 47.27
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-21",
+      "close": 47.17
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-22",
+      "close": 47.08
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-23",
+      "close": 46.6
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-24",
+      "close": 47.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-25",
+      "close": 46.63
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-26",
+      "close": 46.67
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-27",
+      "close": 47.47
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-28",
+      "close": 47.56
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-29",
+      "close": 47.96
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-09-30",
+      "close": 48.03
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-01",
+      "close": 48.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-02",
+      "close": 49.39
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-03",
+      "close": 50.02
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-04",
+      "close": 49.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-05",
+      "close": 48.93
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-06",
+      "close": 47.93
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-07",
+      "close": 48
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-08",
+      "close": 47.07
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-09",
+      "close": 46.3
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-10",
+      "close": 46.9
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-11",
+      "close": 47.48
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-12",
+      "close": 48.04
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-13",
+      "close": 48.21
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-14",
+      "close": 47.92
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-15",
+      "close": 46.8
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-16",
+      "close": 45.78
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-17",
+      "close": 45.06
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-18",
+      "close": 44.44
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-19",
+      "close": 43.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-20",
+      "close": 43.29
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-21",
+      "close": 44.38
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-22",
+      "close": 43.92
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-23",
+      "close": 44.39
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-24",
+      "close": 45.04
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-25",
+      "close": 45.12
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-26",
+      "close": 44.63
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-27",
+      "close": 44.04
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-28",
+      "close": 44.41
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-29",
+      "close": 45.5
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-30",
+      "close": 44.54
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-10-31",
+      "close": 44.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-01",
+      "close": 43.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-02",
+      "close": 44.66
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-03",
+      "close": 44.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-04",
+      "close": 44.16
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-05",
+      "close": 44.3
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-06",
+      "close": 45.27
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-07",
+      "close": 45.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-08",
+      "close": 45.89
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-09",
+      "close": 45.3
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-10",
+      "close": 44.8
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-11",
+      "close": 45.53
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-12",
+      "close": 46.22
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-13",
+      "close": 45.22
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-14",
+      "close": 45.15
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-15",
+      "close": 45.79
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-16",
+      "close": 45.83
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-17",
+      "close": 45.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-18",
+      "close": 44.83
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-19",
+      "close": 44.48
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-20",
+      "close": 43.71
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-21",
+      "close": 44.6
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-22",
+      "close": 45.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-23",
+      "close": 45.56
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-24",
+      "close": 45.69
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-25",
+      "close": 46.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-26",
+      "close": 47.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-27",
+      "close": 46.77
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-28",
+      "close": 46.23
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-29",
+      "close": 47.05
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-11-30",
+      "close": 46.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-01",
+      "close": 47.6
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-02",
+      "close": 47.2
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-03",
+      "close": 48.3
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-04",
+      "close": 47.2
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-05",
+      "close": 47.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-06",
+      "close": 47.14
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-07",
+      "close": 46.34
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-08",
+      "close": 45.98
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-09",
+      "close": 46.17
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-10",
+      "close": 45.35
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-11",
+      "close": 45.79
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-12",
+      "close": 46.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-13",
+      "close": 45.34
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-14",
+      "close": 45.21
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-15",
+      "close": 44.64
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-16",
+      "close": 45.56
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-17",
+      "close": 46.55
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-18",
+      "close": 45.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-19",
+      "close": 45.41
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-20",
+      "close": 46.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-21",
+      "close": 45.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-22",
+      "close": 45.87
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-23",
+      "close": 44.84
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-24",
+      "close": 44.34
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-25",
+      "close": 44.25
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-26",
+      "close": 44.15
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-27",
+      "close": 44.63
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-28",
+      "close": 44.63
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-29",
+      "close": 44.85
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-30",
+      "close": 45.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2020-12-31",
+      "close": 46.79
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-01",
+      "close": 46.78
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-02",
+      "close": 46.08
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-03",
+      "close": 45.59
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-04",
+      "close": 44.91
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-05",
+      "close": 44.84
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-06",
+      "close": 43.84
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-07",
+      "close": 43.53
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-08",
+      "close": 43.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-09",
+      "close": 43.7
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-10",
+      "close": 42.7
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-11",
+      "close": 42.87
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-12",
+      "close": 42.17
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-13",
+      "close": 41.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-14",
+      "close": 42.57
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-15",
+      "close": 43.07
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-16",
+      "close": 42.55
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-17",
+      "close": 42.89
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-18",
+      "close": 42.89
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-19",
+      "close": 43.72
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-20",
+      "close": 42.79
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-21",
+      "close": 42.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-22",
+      "close": 42.87
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-23",
+      "close": 42.07
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-24",
+      "close": 41.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-25",
+      "close": 41.67
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-26",
+      "close": 41.62
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-27",
+      "close": 42.4
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-28",
+      "close": 41.93
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-29",
+      "close": 41.39
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-30",
+      "close": 41.66
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-01-31",
+      "close": 41.98
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-01",
+      "close": 42.86
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-02",
+      "close": 42.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-03",
+      "close": 42.42
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-04",
+      "close": 41.62
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-05",
+      "close": 41.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-06",
+      "close": 41.13
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-07",
+      "close": 41.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-08",
+      "close": 41.71
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-09",
+      "close": 41.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-10",
+      "close": 42.61
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-11",
+      "close": 42.33
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-12",
+      "close": 42.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-13",
+      "close": 42.86
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-14",
+      "close": 43.58
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-15",
+      "close": 42.71
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-16",
+      "close": 42.74
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-17",
+      "close": 41.85
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-18",
+      "close": 41.38
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-19",
+      "close": 41.43
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-20",
+      "close": 40.61
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-21",
+      "close": 40.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-22",
+      "close": 40.71
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-23",
+      "close": 41.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-24",
+      "close": 41.43
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-25",
+      "close": 40.9
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-26",
+      "close": 41.58
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-27",
+      "close": 42.03
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-02-28",
+      "close": 41.36
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-01",
+      "close": 40.56
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-02",
+      "close": 40.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-03",
+      "close": 41.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-04",
+      "close": 40.76
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-05",
+      "close": 39.85
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-06",
+      "close": 40.55
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-07",
+      "close": 41.21
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-08",
+      "close": 41.68
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-09",
+      "close": 41.14
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-10",
+      "close": 42.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-11",
+      "close": 43.05
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-12",
+      "close": 42.05
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-13",
+      "close": 41.7
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-14",
+      "close": 41.85
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-15",
+      "close": 41.83
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-16",
+      "close": 41.02
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-17",
+      "close": 40.05
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-18",
+      "close": 40.35
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-19",
+      "close": 40.62
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-20",
+      "close": 40.94
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-21",
+      "close": 39.96
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-22",
+      "close": 39.38
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-23",
+      "close": 39.72
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-24",
+      "close": 39.68
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-25",
+      "close": 40.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-26",
+      "close": 40.45
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-27",
+      "close": 41.36
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-28",
+      "close": 40.8
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-29",
+      "close": 40.96
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-30",
+      "close": 40.99
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-03-31",
+      "close": 41.51
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-01",
+      "close": 42.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-02",
+      "close": 42.16
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-03",
+      "close": 43.23
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-04",
+      "close": 43.97
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-05",
+      "close": 43.84
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-06",
+      "close": 43.67
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-07",
+      "close": 44.35
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-08",
+      "close": 44.75
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-09",
+      "close": 45.43
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-10",
+      "close": 44.79
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-11",
+      "close": 45.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-12",
+      "close": 46.88
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-13",
+      "close": 45.95
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-14",
+      "close": 45.41
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-15",
+      "close": 44.5
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-16",
+      "close": 44.09
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-17",
+      "close": 44.13
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-18",
+      "close": 43.92
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-19",
+      "close": 43.33
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-20",
+      "close": 42.91
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-21",
+      "close": 41.98
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-22",
+      "close": 42.52
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-23",
+      "close": 43.36
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-24",
+      "close": 44.04
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-25",
+      "close": 43.98
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-26",
+      "close": 44.71
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-27",
+      "close": 45.6
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-28",
+      "close": 46.65
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-29",
+      "close": 46.81
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-04-30",
+      "close": 45.82
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-05-01",
+      "close": 45.75
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-05-02",
+      "close": 45.51
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-05-03",
+      "close": 46.51
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-05-04",
+      "close": 47.57
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2021-05-05",
+      "close": 48.27
+    }
+  ],
+  "BTC": [
+    {
+      "ticker": "BTC",
+      "date": "2020-10-01",
+      "close": 15000
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-02",
+      "close": 14801.64
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-03",
+      "close": 14689.02
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-04",
+      "close": 14453.74
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-05",
+      "close": 14775.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-06",
+      "close": 15116.3
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-07",
+      "close": 14819.29
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-08",
+      "close": 14499.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-09",
+      "close": 14844.74
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-10",
+      "close": 14806.43
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-11",
+      "close": 14931.21
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-12",
+      "close": 15035.32
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-13",
+      "close": 15109.45
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-14",
+      "close": 15086.2
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-15",
+      "close": 15262.69
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-16",
+      "close": 15125.17
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-17",
+      "close": 14891.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-18",
+      "close": 14555.37
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-19",
+      "close": 14655.28
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-20",
+      "close": 14582.02
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-21",
+      "close": 14246.17
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-22",
+      "close": 13915.74
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-23",
+      "close": 14177.89
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-24",
+      "close": 13867.29
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-25",
+      "close": 13701.3
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-26",
+      "close": 13547.5
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-27",
+      "close": 13400.81
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-28",
+      "close": 13536.06
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-29",
+      "close": 13798.01
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-30",
+      "close": 13712.79
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-10-31",
+      "close": 13398.58
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-01",
+      "close": 13108.26
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-02",
+      "close": 12843.65
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-03",
+      "close": 12593.25
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-04",
+      "close": 12508.6
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-05",
+      "close": 12579.41
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-06",
+      "close": 12805
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-07",
+      "close": 12662.61
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-08",
+      "close": 12602.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-09",
+      "close": 12753.27
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-10",
+      "close": 12995.92
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-11",
+      "close": 13123.8
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-12",
+      "close": 13178.42
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-13",
+      "close": 12984.06
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-14",
+      "close": 12754.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-15",
+      "close": 12645.51
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-16",
+      "close": 12758.49
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-17",
+      "close": 13051.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-18",
+      "close": 12853.36
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-19",
+      "close": 12975.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-20",
+      "close": 13099.18
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-21",
+      "close": 12998.62
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-22",
+      "close": 12692.02
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-23",
+      "close": 12734.24
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-24",
+      "close": 12839.37
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-25",
+      "close": 12974.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-26",
+      "close": 13123.09
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-27",
+      "close": 13279.66
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-28",
+      "close": 13051.88
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-29",
+      "close": 12896.23
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-11-30",
+      "close": 12882.59
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-01",
+      "close": 12628.06
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-02",
+      "close": 12451.34
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-03",
+      "close": 12381.62
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-04",
+      "close": 12245.29
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-05",
+      "close": 12288.94
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-06",
+      "close": 12313.59
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-07",
+      "close": 12348
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-08",
+      "close": 12425.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-09",
+      "close": 12556.41
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-10",
+      "close": 12566.51
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-11",
+      "close": 12269.75
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-12",
+      "close": 12477.14
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-13",
+      "close": 12385.25
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-14",
+      "close": 12181.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-15",
+      "close": 12379.44
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-16",
+      "close": 12614.62
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-17",
+      "close": 12426.05
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-18",
+      "close": 12699.97
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-19",
+      "close": 12569.2
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-20",
+      "close": 12878.68
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-21",
+      "close": 12899.05
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-22",
+      "close": 12626.96
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-23",
+      "close": 12945.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-24",
+      "close": 12832.93
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-25",
+      "close": 12607.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-26",
+      "close": 12844.92
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-27",
+      "close": 12628.89
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-28",
+      "close": 12632.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-29",
+      "close": 12564.41
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-30",
+      "close": 12442.43
+    },
+    {
+      "ticker": "BTC",
+      "date": "2020-12-31",
+      "close": 12173.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-01",
+      "close": 12140.47
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-02",
+      "close": 12293.91
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-03",
+      "close": 12258.43
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-04",
+      "close": 12135.94
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-05",
+      "close": 12392.3
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-06",
+      "close": 12626.8
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-07",
+      "close": 12629.28
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-08",
+      "close": 12953.34
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-09",
+      "close": 13141.03
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-10",
+      "close": 13137.03
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-11",
+      "close": 12931.04
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-12",
+      "close": 13251.49
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-13",
+      "close": 13113.98
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-14",
+      "close": 13428.01
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-15",
+      "close": 13146.83
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-16",
+      "close": 13196.99
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-17",
+      "close": 13395.75
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-18",
+      "close": 13366.02
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-19",
+      "close": 13165.15
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-20",
+      "close": 13202.32
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-21",
+      "close": 12914.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-22",
+      "close": 13177.69
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-23",
+      "close": 13009.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-24",
+      "close": 13269.58
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-25",
+      "close": 13369.76
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-26",
+      "close": 13550.56
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-27",
+      "close": 13591.4
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-28",
+      "close": 13624.32
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-29",
+      "close": 13447.79
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-30",
+      "close": 13247.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-01-31",
+      "close": 13230.82
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-01",
+      "close": 12974.97
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-02",
+      "close": 13094.14
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-03",
+      "close": 13276.99
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-04",
+      "close": 13403.91
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-05",
+      "close": 13265.69
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-06",
+      "close": 13476.28
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-07",
+      "close": 13255.25
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-08",
+      "close": 13473.86
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-09",
+      "close": 13513.24
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-10",
+      "close": 13821.17
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-11",
+      "close": 13649.43
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-12",
+      "close": 13346.22
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-13",
+      "close": 13150.7
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-14",
+      "close": 13312.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-15",
+      "close": 13544.66
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-16",
+      "close": 13835.4
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-17",
+      "close": 13899.78
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-18",
+      "close": 14140.01
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-19",
+      "close": 14341.83
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-20",
+      "close": 14699.45
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-21",
+      "close": 14627.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-22",
+      "close": 14773.34
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-23",
+      "close": 14855.82
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-24",
+      "close": 14840.38
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-25",
+      "close": 15074.57
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-26",
+      "close": 15128.38
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-27",
+      "close": 15112.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-02-28",
+      "close": 14968
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-01",
+      "close": 15222.69
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-02",
+      "close": 14947.75
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-03",
+      "close": 15126.26
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-04",
+      "close": 15363.39
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-05",
+      "close": 15664.92
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-06",
+      "close": 15320.3
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-07",
+      "close": 15304.72
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-08",
+      "close": 15646.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-09",
+      "close": 15311.08
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-10",
+      "close": 15089.53
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-11",
+      "close": 14798.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-12",
+      "close": 15031.24
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-13",
+      "close": 15295.32
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-14",
+      "close": 14959.74
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-15",
+      "close": 14735.36
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-16",
+      "close": 15030.68
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-17",
+      "close": 14876.19
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-18",
+      "close": 14970.06
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-19",
+      "close": 14771.84
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-20",
+      "close": 14535
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-21",
+      "close": 14390.01
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-22",
+      "close": 14330.58
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-23",
+      "close": 14036.04
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-24",
+      "close": 14072.6
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-25",
+      "close": 14077.51
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-26",
+      "close": 14140.07
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-27",
+      "close": 14323.39
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-28",
+      "close": 14611.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-29",
+      "close": 14521.68
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-30",
+      "close": 14214.11
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-03-31",
+      "close": 14317.81
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-01",
+      "close": 14661.47
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-02",
+      "close": 14854.86
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-03",
+      "close": 14743.95
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-04",
+      "close": 15036.68
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-05",
+      "close": 14937
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-06",
+      "close": 15065.74
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-07",
+      "close": 15254.79
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-08",
+      "close": 15628.6
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-09",
+      "close": 15901.58
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-10",
+      "close": 15673.05
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-11",
+      "close": 15623.02
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-12",
+      "close": 15508.67
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-13",
+      "close": 15799.18
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-14",
+      "close": 16175.18
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-15",
+      "close": 16296.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-16",
+      "close": 15946.16
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-17",
+      "close": 15853.78
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-18",
+      "close": 15861.1
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-19",
+      "close": 16260.76
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-20",
+      "close": 16467.11
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-21",
+      "close": 16206.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-22",
+      "close": 16608.57
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-23",
+      "close": 16663.8
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-24",
+      "close": 16730.55
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-25",
+      "close": 16777.04
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-26",
+      "close": 16449.28
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-27",
+      "close": 16102.75
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-28",
+      "close": 15805.61
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-29",
+      "close": 16017.44
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-04-30",
+      "close": 15765.98
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-01",
+      "close": 15677.76
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-02",
+      "close": 15590.47
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-03",
+      "close": 15245.1
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-04",
+      "close": 15470.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-05",
+      "close": 15692.15
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-06",
+      "close": 15732.53
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-07",
+      "close": 15619.88
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-08",
+      "close": 15678.63
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-09",
+      "close": 15553.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-10",
+      "close": 15546.49
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-11",
+      "close": 15496.83
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-12",
+      "close": 15324.72
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-13",
+      "close": 15712.4
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-14",
+      "close": 16086.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-15",
+      "close": 16440.35
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-16",
+      "close": 16669.12
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-17",
+      "close": 16717.6
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-18",
+      "close": 16934.44
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-19",
+      "close": 16997.71
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-20",
+      "close": 16641.09
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-21",
+      "close": 16252.37
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-22",
+      "close": 16191.91
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-23",
+      "close": 15909.12
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-24",
+      "close": 15790.75
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-25",
+      "close": 15959.69
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-26",
+      "close": 16184.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-27",
+      "close": 16368.47
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-28",
+      "close": 16404.94
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-29",
+      "close": 16161.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-30",
+      "close": 16534.61
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-05-31",
+      "close": 16562.46
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-01",
+      "close": 16633.89
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-02",
+      "close": 16537.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-03",
+      "close": 16593.06
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-04",
+      "close": 16234.66
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-05",
+      "close": 16479.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-06",
+      "close": 16222.7
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-07",
+      "close": 15833.47
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-08",
+      "close": 15700.65
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-09",
+      "close": 15339.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-10",
+      "close": 15298.94
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-11",
+      "close": 15000.68
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-12",
+      "close": 14674.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-13",
+      "close": 14773.08
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-14",
+      "close": 14849.79
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-15",
+      "close": 15077.4
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-16",
+      "close": 15427.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-17",
+      "close": 15217.05
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-18",
+      "close": 15116.44
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-19",
+      "close": 15172.45
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-20",
+      "close": 15319.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-21",
+      "close": 15294.67
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-22",
+      "close": 15020.09
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-23",
+      "close": 15291.26
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-24",
+      "close": 15061.29
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-25",
+      "close": 14721.61
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-26",
+      "close": 14908.24
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-27",
+      "close": 14846.7
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-28",
+      "close": 14906.93
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-29",
+      "close": 14833.24
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-06-30",
+      "close": 15136.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-01",
+      "close": 15251.98
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-02",
+      "close": 15360.99
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-03",
+      "close": 15466.09
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-04",
+      "close": 15652.97
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-05",
+      "close": 15392.47
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-06",
+      "close": 15617.46
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-07",
+      "close": 15823.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-08",
+      "close": 15833.56
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-09",
+      "close": 16118.98
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-10",
+      "close": 15749.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-11",
+      "close": 15861.34
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-12",
+      "close": 16108.72
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-13",
+      "close": 16115.14
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-14",
+      "close": 16140.86
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-15",
+      "close": 16094.58
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-16",
+      "close": 16001.46
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-17",
+      "close": 15803.14
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-18",
+      "close": 15943.64
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-19",
+      "close": 16177.64
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-20",
+      "close": 16036.76
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-21",
+      "close": 15709.38
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-22",
+      "close": 15757.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-23",
+      "close": 15779.45
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-24",
+      "close": 16006.13
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-25",
+      "close": 15898.71
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-26",
+      "close": 15712.22
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-27",
+      "close": 15555.11
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-28",
+      "close": 15779.07
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-29",
+      "close": 15599.01
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-30",
+      "close": 15560.25
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-07-31",
+      "close": 15822.97
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-01",
+      "close": 15927.81
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-02",
+      "close": 15894.23
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-03",
+      "close": 16222.67
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-04",
+      "close": 15896.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-05",
+      "close": 15534.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-06",
+      "close": 15476.08
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-07",
+      "close": 15590.11
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-08",
+      "close": 15702.76
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-09",
+      "close": 15890.41
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-10",
+      "close": 15517.16
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-11",
+      "close": 15435.99
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-12",
+      "close": 15530.81
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-13",
+      "close": 15552.62
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-14",
+      "close": 15563.29
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-15",
+      "close": 15282.17
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-16",
+      "close": 15481.06
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-17",
+      "close": 15262.5
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-18",
+      "close": 15074.25
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-19",
+      "close": 14758.01
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-20",
+      "close": 15102.5
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-21",
+      "close": 14802.7
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-22",
+      "close": 14793.25
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-23",
+      "close": 14720.41
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-24",
+      "close": 14510.55
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-25",
+      "close": 14369.44
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-26",
+      "close": 14124.54
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-27",
+      "close": 14182.73
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-28",
+      "close": 14157.3
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-29",
+      "close": 14463.08
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-30",
+      "close": 14548.98
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-08-31",
+      "close": 14423.8
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-01",
+      "close": 14520.95
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-02",
+      "close": 14755
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-03",
+      "close": 14803.43
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-04",
+      "close": 15141.31
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-05",
+      "close": 15047.57
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-06",
+      "close": 15196.27
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-07",
+      "close": 15070.92
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-08",
+      "close": 15085.03
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-09",
+      "close": 15470.6
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-10",
+      "close": 15104.15
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-11",
+      "close": 15362.69
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-12",
+      "close": 15603.74
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-13",
+      "close": 15648.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-14",
+      "close": 15810.82
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-15",
+      "close": 16019.81
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-16",
+      "close": 15860.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-17",
+      "close": 15879.29
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-18",
+      "close": 15752.24
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-19",
+      "close": 15963.64
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-20",
+      "close": 16051.32
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-21",
+      "close": 16284.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-22",
+      "close": 16552.36
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-23",
+      "close": 16550.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-24",
+      "close": 16246.34
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-25",
+      "close": 16638.44
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-26",
+      "close": 16555.7
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-27",
+      "close": 16170.87
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-28",
+      "close": 16243
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-29",
+      "close": 16579
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-09-30",
+      "close": 16793.28
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-01",
+      "close": 16469.82
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-02",
+      "close": 16747.72
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-03",
+      "close": 16569.37
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-04",
+      "close": 16394.91
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-05",
+      "close": 16669.07
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-06",
+      "close": 16962.12
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-07",
+      "close": 16790.19
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-08",
+      "close": 17026.64
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-09",
+      "close": 16994.46
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-10",
+      "close": 16816.52
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-11",
+      "close": 17115.95
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-12",
+      "close": 17247.81
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-13",
+      "close": 17297.35
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-14",
+      "close": 17157.11
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-15",
+      "close": 17091.45
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-16",
+      "close": 17303.75
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-17",
+      "close": 17118.18
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-18",
+      "close": 17015.36
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-19",
+      "close": 16986.39
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-20",
+      "close": 16863.11
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-21",
+      "close": 16522.48
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-22",
+      "close": 16855.85
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-23",
+      "close": 17117.41
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-24",
+      "close": 17337.61
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-25",
+      "close": 17117.86
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-26",
+      "close": 17443.05
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-27",
+      "close": 17603.98
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-28",
+      "close": 17732.67
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-29",
+      "close": 17436.95
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-30",
+      "close": 17313.3
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-10-31",
+      "close": 17033.78
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-11-01",
+      "close": 17020.68
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-11-02",
+      "close": 16631.07
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-11-03",
+      "close": 16612.9
+    },
+    {
+      "ticker": "BTC",
+      "date": "2021-11-04",
+      "close": 16455.9
+    }
+  ],
+  "GME": [
+    {
+      "ticker": "GME",
+      "date": "2021-01-01",
+      "close": 10
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-02",
+      "close": 9.94
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-03",
+      "close": 10.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-04",
+      "close": 10.3
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-05",
+      "close": 10.34
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-06",
+      "close": 10.34
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-07",
+      "close": 10.53
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-08",
+      "close": 10.58
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-09",
+      "close": 10.52
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-10",
+      "close": 10.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-11",
+      "close": 10.37
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-12",
+      "close": 10.35
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-13",
+      "close": 10.14
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-14",
+      "close": 9.98
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-15",
+      "close": 10.16
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-16",
+      "close": 10.2
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-17",
+      "close": 10.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-18",
+      "close": 10.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-19",
+      "close": 10.26
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-20",
+      "close": 10.09
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-21",
+      "close": 10.34
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-22",
+      "close": 10.47
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-23",
+      "close": 10.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-24",
+      "close": 10.85
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-25",
+      "close": 11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-26",
+      "close": 10.8
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-27",
+      "close": 10.69
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-28",
+      "close": 10.57
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-29",
+      "close": 10.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-30",
+      "close": 10.72
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-01-31",
+      "close": 10.95
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-01",
+      "close": 11.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-02",
+      "close": 11.32
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-03",
+      "close": 11.19
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-04",
+      "close": 11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-05",
+      "close": 11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-06",
+      "close": 11.07
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-07",
+      "close": 11.17
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-08",
+      "close": 11.25
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-09",
+      "close": 11.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-10",
+      "close": 10.84
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-11",
+      "close": 10.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-12",
+      "close": 10.88
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-13",
+      "close": 11.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-14",
+      "close": 11.07
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-15",
+      "close": 10.87
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-16",
+      "close": 10.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-17",
+      "close": 11.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-18",
+      "close": 10.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-19",
+      "close": 10.59
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-20",
+      "close": 10.44
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-21",
+      "close": 10.27
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-22",
+      "close": 10.1
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-23",
+      "close": 10.33
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-24",
+      "close": 10.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-25",
+      "close": 10.48
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-26",
+      "close": 10.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-27",
+      "close": 10.6
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-02-28",
+      "close": 10.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-01",
+      "close": 10.45
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-02",
+      "close": 10.33
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-03",
+      "close": 10.43
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-04",
+      "close": 10.22
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-05",
+      "close": 10.04
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-06",
+      "close": 10.08
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-07",
+      "close": 9.98
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-08",
+      "close": 9.86
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-09",
+      "close": 9.72
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-10",
+      "close": 9.56
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-11",
+      "close": 9.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-12",
+      "close": 9.44
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-13",
+      "close": 9.25
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-14",
+      "close": 9.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-15",
+      "close": 9.14
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-16",
+      "close": 9.09
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-17",
+      "close": 9.26
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-18",
+      "close": 9.17
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-19",
+      "close": 9.33
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-20",
+      "close": 9.24
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-21",
+      "close": 9.22
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-22",
+      "close": 9.09
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-23",
+      "close": 9.23
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-24",
+      "close": 9.18
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-25",
+      "close": 9.17
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-26",
+      "close": 9.21
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-27",
+      "close": 9.4
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-28",
+      "close": 9.62
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-29",
+      "close": 9.49
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-30",
+      "close": 9.61
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-03-31",
+      "close": 9.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-01",
+      "close": 9.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-02",
+      "close": 9.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-03",
+      "close": 9.53
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-04",
+      "close": 9.54
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-05",
+      "close": 9.52
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-06",
+      "close": 9.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-07",
+      "close": 9.48
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-08",
+      "close": 9.4
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-09",
+      "close": 9.41
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-10",
+      "close": 9.62
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-11",
+      "close": 9.64
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-12",
+      "close": 9.6
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-13",
+      "close": 9.52
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-14",
+      "close": 9.43
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-15",
+      "close": 9.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-16",
+      "close": 9.78
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-17",
+      "close": 9.88
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-18",
+      "close": 10
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-19",
+      "close": 9.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-20",
+      "close": 9.74
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-21",
+      "close": 9.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-22",
+      "close": 9.88
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-23",
+      "close": 9.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-24",
+      "close": 9.87
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-25",
+      "close": 10.11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-26",
+      "close": 9.92
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-27",
+      "close": 9.76
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-28",
+      "close": 9.76
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-29",
+      "close": 9.88
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-04-30",
+      "close": 10.01
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-01",
+      "close": 9.81
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-02",
+      "close": 9.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-03",
+      "close": 9.47
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-04",
+      "close": 9.52
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-05",
+      "close": 9.77
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-06",
+      "close": 9.74
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-07",
+      "close": 9.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-08",
+      "close": 9.63
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-09",
+      "close": 9.71
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-10",
+      "close": 9.73
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-11",
+      "close": 9.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-12",
+      "close": 9.57
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-13",
+      "close": 9.68
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-14",
+      "close": 9.57
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-15",
+      "close": 9.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-16",
+      "close": 9.87
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-17",
+      "close": 9.91
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-18",
+      "close": 10.07
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-19",
+      "close": 10.3
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-20",
+      "close": 10.18
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-21",
+      "close": 10.2
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-22",
+      "close": 10.33
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-23",
+      "close": 10.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-24",
+      "close": 10.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-25",
+      "close": 10.31
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-26",
+      "close": 10.38
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-27",
+      "close": 10.36
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-28",
+      "close": 10.11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-29",
+      "close": 10.17
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-30",
+      "close": 10.08
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-05-31",
+      "close": 10.03
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-01",
+      "close": 10.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-02",
+      "close": 10.09
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-03",
+      "close": 10.04
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-04",
+      "close": 9.87
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-05",
+      "close": 10.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-06",
+      "close": 10.04
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-07",
+      "close": 10.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-08",
+      "close": 10.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-09",
+      "close": 10.08
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-10",
+      "close": 10
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-11",
+      "close": 10.25
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-12",
+      "close": 10.44
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-13",
+      "close": 10.29
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-14",
+      "close": 10.27
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-15",
+      "close": 10.44
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-16",
+      "close": 10.63
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-17",
+      "close": 10.84
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-18",
+      "close": 11.02
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-19",
+      "close": 10.84
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-20",
+      "close": 10.8
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-21",
+      "close": 10.72
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-22",
+      "close": 10.74
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-23",
+      "close": 10.84
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-24",
+      "close": 11.1
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-25",
+      "close": 11.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-26",
+      "close": 11.21
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-27",
+      "close": 11.44
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-28",
+      "close": 11.2
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-29",
+      "close": 10.98
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-06-30",
+      "close": 11.1
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-01",
+      "close": 11.27
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-02",
+      "close": 11.36
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-03",
+      "close": 11.11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-04",
+      "close": 11.38
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-05",
+      "close": 11.23
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-06",
+      "close": 11.45
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-07",
+      "close": 11.62
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-08",
+      "close": 11.78
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-09",
+      "close": 11.5
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-10",
+      "close": 11.64
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-11",
+      "close": 11.42
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-12",
+      "close": 11.71
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-13",
+      "close": 11.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-14",
+      "close": 11.92
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-15",
+      "close": 11.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-16",
+      "close": 11.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-17",
+      "close": 11.89
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-18",
+      "close": 12.07
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-19",
+      "close": 11.86
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-20",
+      "close": 11.79
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-21",
+      "close": 12.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-22",
+      "close": 12.21
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-23",
+      "close": 11.92
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-24",
+      "close": 11.85
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-25",
+      "close": 11.6
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-26",
+      "close": 11.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-27",
+      "close": 11.61
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-28",
+      "close": 11.6
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-29",
+      "close": 11.89
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-30",
+      "close": 11.75
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-07-31",
+      "close": 11.73
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-01",
+      "close": 11.56
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-02",
+      "close": 11.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-03",
+      "close": 11.82
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-04",
+      "close": 12.03
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-05",
+      "close": 11.91
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-06",
+      "close": 11.69
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-07",
+      "close": 11.69
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-08",
+      "close": 11.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-09",
+      "close": 11.93
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-10",
+      "close": 12.14
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-11",
+      "close": 12.43
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-12",
+      "close": 12.4
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-13",
+      "close": 12.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-14",
+      "close": 12.58
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-15",
+      "close": 12.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-16",
+      "close": 12.9
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-17",
+      "close": 13.14
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-18",
+      "close": 13.18
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-19",
+      "close": 13.29
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-20",
+      "close": 13.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-21",
+      "close": 12.92
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-22",
+      "close": 12.96
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-23",
+      "close": 12.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-24",
+      "close": 13.03
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-25",
+      "close": 13.35
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-26",
+      "close": 13.2
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-27",
+      "close": 13.37
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-28",
+      "close": 13.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-29",
+      "close": 13.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-30",
+      "close": 13.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-08-31",
+      "close": 13.42
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-01",
+      "close": 13.37
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-02",
+      "close": 13.5
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-03",
+      "close": 13.61
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-04",
+      "close": 13.45
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-05",
+      "close": 13.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-06",
+      "close": 13.15
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-07",
+      "close": 13.47
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-08",
+      "close": 13.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-09",
+      "close": 13.47
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-10",
+      "close": 13.45
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-11",
+      "close": 13.43
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-12",
+      "close": 13.38
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-13",
+      "close": 13.53
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-14",
+      "close": 13.4
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-15",
+      "close": 13.49
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-16",
+      "close": 13.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-17",
+      "close": 13.65
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-18",
+      "close": 13.86
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-19",
+      "close": 13.89
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-20",
+      "close": 14.19
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-21",
+      "close": 14.34
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-22",
+      "close": 14.53
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-23",
+      "close": 14.86
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-24",
+      "close": 14.74
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-25",
+      "close": 14.77
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-26",
+      "close": 15.1
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-27",
+      "close": 14.88
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-28",
+      "close": 14.71
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-29",
+      "close": 14.48
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-09-30",
+      "close": 14.31
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-01",
+      "close": 14.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-02",
+      "close": 14.82
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-03",
+      "close": 14.64
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-04",
+      "close": 14.32
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-05",
+      "close": 14.18
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-06",
+      "close": 14.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-07",
+      "close": 14.56
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-08",
+      "close": 14.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-09",
+      "close": 14.37
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-10",
+      "close": 14.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-11",
+      "close": 14.38
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-12",
+      "close": 14.38
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-13",
+      "close": 14.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-14",
+      "close": 14.75
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-15",
+      "close": 14.98
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-16",
+      "close": 14.64
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-17",
+      "close": 14.43
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-18",
+      "close": 14.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-19",
+      "close": 14.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-20",
+      "close": 14.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-21",
+      "close": 14.48
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-22",
+      "close": 14.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-23",
+      "close": 14.41
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-24",
+      "close": 14.36
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-25",
+      "close": 14.14
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-26",
+      "close": 14.08
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-27",
+      "close": 14.3
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-28",
+      "close": 14.37
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-29",
+      "close": 14.71
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-30",
+      "close": 14.49
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-10-31",
+      "close": 14.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-01",
+      "close": 14.6
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-02",
+      "close": 14.35
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-03",
+      "close": 14.45
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-04",
+      "close": 14.29
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-05",
+      "close": 14.32
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-06",
+      "close": 14.07
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-07",
+      "close": 13.78
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-08",
+      "close": 13.61
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-09",
+      "close": 13.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-10",
+      "close": 13.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-11",
+      "close": 13.76
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-12",
+      "close": 13.99
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-13",
+      "close": 14.11
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-14",
+      "close": 13.89
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-15",
+      "close": 13.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-16",
+      "close": 13.87
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-17",
+      "close": 13.83
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-18",
+      "close": 14.01
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-19",
+      "close": 13.93
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-20",
+      "close": 13.74
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-21",
+      "close": 13.55
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-22",
+      "close": 13.27
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-23",
+      "close": 12.98
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-24",
+      "close": 12.85
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-25",
+      "close": 12.97
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-26",
+      "close": 12.99
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-27",
+      "close": 12.97
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-28",
+      "close": 12.95
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-29",
+      "close": 12.95
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-11-30",
+      "close": 13.1
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-01",
+      "close": 13.24
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-02",
+      "close": 13.16
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-03",
+      "close": 12.99
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-04",
+      "close": 13.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-05",
+      "close": 13.32
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-06",
+      "close": 13.54
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-07",
+      "close": 13.57
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-08",
+      "close": 13.85
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-09",
+      "close": 14.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-10",
+      "close": 14.01
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-11",
+      "close": 13.98
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-12",
+      "close": 13.72
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-13",
+      "close": 13.5
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-14",
+      "close": 13.26
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-15",
+      "close": 13.33
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-16",
+      "close": 13.26
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-17",
+      "close": 13.13
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-18",
+      "close": 13.09
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-19",
+      "close": 13.42
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-20",
+      "close": 13.42
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-21",
+      "close": 13.7
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-22",
+      "close": 13.85
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-23",
+      "close": 13.89
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-24",
+      "close": 13.75
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-25",
+      "close": 13.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-26",
+      "close": 13.59
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-27",
+      "close": 13.56
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-28",
+      "close": 13.51
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-29",
+      "close": 13.87
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-30",
+      "close": 13.79
+    },
+    {
+      "ticker": "GME",
+      "date": "2021-12-31",
+      "close": 13.85
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-01",
+      "close": 13.91
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-02",
+      "close": 13.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-03",
+      "close": 13.59
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-04",
+      "close": 13.63
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-05",
+      "close": 13.97
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-06",
+      "close": 14.05
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-07",
+      "close": 13.94
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-08",
+      "close": 13.67
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-09",
+      "close": 13.63
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-10",
+      "close": 13.42
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-11",
+      "close": 13.17
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-12",
+      "close": 13.06
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-13",
+      "close": 12.77
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-14",
+      "close": 12.92
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-15",
+      "close": 12.79
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-16",
+      "close": 12.56
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-17",
+      "close": 12.88
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-18",
+      "close": 12.79
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-19",
+      "close": 13.01
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-20",
+      "close": 12.86
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-21",
+      "close": 12.84
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-22",
+      "close": 12.66
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-23",
+      "close": 12.59
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-24",
+      "close": 12.34
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-25",
+      "close": 12.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-26",
+      "close": 12.4
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-27",
+      "close": 12.14
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-28",
+      "close": 12.39
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-29",
+      "close": 12.53
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-30",
+      "close": 12.48
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-01-31",
+      "close": 12.75
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-02-01",
+      "close": 12.62
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-02-02",
+      "close": 12.41
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-02-03",
+      "close": 12.6
+    },
+    {
+      "ticker": "GME",
+      "date": "2022-02-04",
+      "close": 12.56
+    }
+  ]
+}

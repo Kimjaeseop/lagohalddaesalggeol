@@ -1,0 +1,49 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Person {
+  id        Int     @id @default(autoincrement())
+  name      String
+  slug      String  @unique
+  imageUrl  String  @map("image_url")
+  quotes    Quote[]
+
+  @@map("people")
+}
+
+model Quote {
+  id            Int     @id @default(autoincrement())
+  personId      Int     @map("person_id")
+  text          String
+  relatedTicker String  @map("related_ticker")
+  priceThen     Float   @map("price_then")
+  priceNow      Float   @map("price_now")
+  context       String?
+  saidAt        String? @map("said_at")
+
+  person        Person  @relation(fields: [personId], references: [id])
+
+  @@map("quotes")
+}
+
+model AnalysisResult {
+  id        Int      @id @default(autoincrement())
+  url       String   @unique
+  title     String
+  content   String?
+  result    Json
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@map("analysis_results")
+}
